@@ -25,5 +25,3 @@ Fitbit Fitness Tracker Dataset (CSV format)
 ### Output
 - Clean dataset: `Clean.csv`
 
-### Screenshots
-Screenshots are available in the Screenshot folder.
